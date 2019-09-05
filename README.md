@@ -1,3 +1,7 @@
+#For this project I made slight changes to the first 4 main files to make them print a smiley face correctly. 
+#It uses pip arcade to display them.
+#
+#
 # E01b-Smiles
 An exercise exploring variables and loops using Python Arcade.
 
